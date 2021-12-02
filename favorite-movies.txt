@@ -3,3 +3,8 @@ favorite movies
 Christina's movies:
 - Frozen
 - Ice Age
+
+Jenna's Movies: 
+- Home Alone
+
+Keeping both of our movie lists
